@@ -31,7 +31,7 @@ const MenuItems = () => {
 
           {/* price */}
           <p className={styled.price}>
-            <b>$ {item.price}</b>
+            <b>KES {item.price}</b>
           </p>
         </article>
       );
