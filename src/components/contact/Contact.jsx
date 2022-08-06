@@ -3,7 +3,7 @@ import styled from "./Contact.module.css";
 import Heading from "../header/Heading";
 import Background from "../helpers/Background";
 import Wrapper from "../helpers/Wrapper";
-import greyBg from "../../images/greyBg.png";
+import greyBg from "../../images/greybg.png";
 import spices from "../../images/spices.png";
 import Button from "../button/Button";
 
